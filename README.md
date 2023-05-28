@@ -1,54 +1,35 @@
-## Welcome!
+<div align="center">
+  <h1>:wave: Welcome!</h1>
+  <p>Hi there! I'm Sebastián Hernando, a Front-End Developer specialized in React.</p>
+</div>
 
-:wave: Hi. I'm <span>**Sebastián Hernando**</span>. I am a Front End Developer specialized in <span>**React**</span>.
+## :sparkles: Statistics
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
+[![Mipmipp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mipmipp&theme=omni&show_icons=true)](https://github.com/Mipmipp/github-readme-stats)
 
-#### :chart_with_upwards_trend: Stats
+## :rocket: Technologies
 
+- HTML5, CSS3, JavaScript, Cypress.io
+- React, React Query
+- Material-UI, Bootstrap, Framer Motion
+- Victoria, TypeIt
+- npm, VS Code, github, Prettier, ESlint
 
-[![Mipmipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mipmipp&theme=omni&show_icons=true)](https://github.com/Mipmipp/github-readme-stats)
+## :bulb: Featured Projects
 
-</td>
-<td valign="top" width="50%">
+Here are some of my featured projects:
 
-#### :rocket: Technologies
+- [PokeX Repository](https://github.com/Mipmipp/pokex) ([Demo](https://pokex-mipmipp.netlify.app/))
+- [Rick and Morty Wiki Repository](https://github.com/Mipmipp/rick-and-morty-wiki) ([Demo](https://rickandmortywiki-mipmipp.netlify.app/))
+- [Portfolio Repository](https://github.com/Mipmipp/portfolio) ([Demo](https://portfolio-mipmipp.netlify.app/))
 
-* *HTML.*
-* *CSS.*
-  * *Bootstrap.*
-* *Javascript.*
-  * *ESModules, LocalStorage.*
-* *Cypress.io.*
-* *React.*
-  * *React Query, React Bootstrap, Material UI, Framer Motion.*
+## :speech_balloon: Contact
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+I would love to connect with you! You can find me at:
 
-#### :mortar_board: More
+- [Email](mailto:mailto:imipmipp@gmail.com)
+- [Portfolio](https://portfolio-mipmipp.netlify.app/)
 
-* Other technologies:
-  * *ESlint, Prettier, NPM, Visual Studio Code, Github Desktop, Slack.*
-
-* Learning: 
-  * *Currently improving React. Learning Unit Test and CRUD.*
-
-</td>
-<td valign="top" width="50%">
-
-#### :books: Languages
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| Spanish       | Native language                                                           |
-| English       | B1 (UBA idiomas)                                                          |
-
-</td>
-</tr>
-
-</table>
+<div align="center">
+  <p>Thank you for visiting my profile! I hope you enjoyed your stay! :star2:</p>
+</div>
