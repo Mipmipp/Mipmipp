@@ -9,11 +9,12 @@
 
 ## :rocket: Technologies
 
-- HTML5, CSS3, JavaScript, Cypress.io
+- HTML5, CSS3, JavaScript
 - React, React Query
-- Material-UI, Bootstrap, Framer Motion
-- Victoria, TypeIt
-- npm, VS Code, github, Prettier, ESlint
+- Cypress.io, Jest
+- Material-UI, Bootstrap, Bootstrap-React
+- Victoria, TypeIt, Framer Motion
+- VS Code, npm, Prettier, ESlint, github
 
 ## :bulb: Featured Projects
 
