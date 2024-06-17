@@ -38,15 +38,21 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
     <td align="center" width="96"> 
       <a>
-        <img src="./assets/icons/cypress-logo.png" width="48" height="48" alt="Cypress Icon" />
+        <img src="./assets/icons/reactrouter-logo.png" width="48" height="48" alt="React Router Icon" />
       </a>
-      <br>Cypress
+      <br>React Router
     </td>
     <td align="center" width="96"> 
       <a>
         <img src="./assets/icons/formik-logo.png" width="48" height="48" alt="Formik Icon" />
       </a>
       <br>Formik & Yup
+    </td>
+     <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/cypress-logo.png" width="48" height="48" alt="Cypress Icon" />
+      </a>
+      <br>Cypress
     </td>
     <td align="center" width="96"> 
       <a>
@@ -82,7 +88,7 @@ Frontend-focused software developer with a passion for crafting exceptional user
       <a>
         <img src="./assets/icons/jest-logo.png" width="48" height="48" alt="Jest Icon" />
       </a>
-      <br>Jesy
+      <br>Jest
     </td>
     <td align="center" width="96"> 
       <a>
