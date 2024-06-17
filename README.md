@@ -264,6 +264,8 @@ Frontend-focused software developer with a passion for crafting exceptional user
       </a>
       <br>Material UI
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a>
         <img src="./assets/icons/framermotion-logo.png" width="48" height="48" alt="Framer Motion Icon" />
