@@ -98,6 +98,12 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
     <td align="center" width="96"> 
       <a>
+        <img src="./assets/icons/postman-logo.png" width="48" height="48" alt="Postman Icon" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96"> 
+      <a>
         <img src="./assets/icons/awsapprunner-logo.png" width="48" height="48" alt="AppRunner Icon" />
       </a>
       <br>AppRunner
@@ -186,6 +192,12 @@ Frontend-focused software developer with a passion for crafting exceptional user
       </a>
       <br>Prettier
     </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/drawio-logo.png" width="48" height="48" alt="Drawio Icon" />
+      </a>
+      <br>Drawio
+    </td>
   </tr>
 </table>
 
@@ -213,3 +225,74 @@ Frontend-focused software developer with a passion for crafting exceptional user
   </tr>
 </table>
 
+### Others
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/html-logo.png" width="48" height="48" alt="HTML Icon" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/css-logo.png" width="48" height="48" alt="CSS Icon" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/javascript-logo.png" width="48" height="48" alt="JavaScript Icon" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/bootstrap-logo.png" width="48" height="48" alt="Bootstrap Icon" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/bootstrapreact-logo.png" width="48" height="48" alt="Bootstrap React Icon" />
+      </a>
+      <br>Bootstrap React
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/materialui-logo.png" width="48" height="48" alt="Material UI Icon" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/framermotion-logo.png" width="48" height="48" alt="Framer Motion Icon" />
+      </a>
+      <br>Framer Motion
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/nodejs-logo.png" width="48" height="48" alt="NodeJS Icon" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/express-logo.png" width="48" height="48" alt="Express Icon" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/rust-logo.png" width="48" height="48" alt="Rust Icon" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/nextjs-logo.png" width="48" height="48" alt="NextJS Icon" />
+      </a>
+      <br>NextJS
+    </td>
+  </tr>
+</table>
