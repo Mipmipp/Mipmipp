@@ -9,15 +9,50 @@ Frontend-focused software developer with a passion for crafting exceptional user
 - View my resume <a href="https://github.com/Mipmipp/Mipmipp/blob/main/assets/resume-hernando-sebastian.pdf">clicking here</a>
 
 ## Favorite Tech
-> Tools, languages, and other things that I like to work with.
-
+### Frontend
 <table>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./assets/icons/typeorm.png" width="48" height="48" alt="TypeORM" />
+      <a>
+        <img src="./assets/icons/react-logo.png" width="48" height="48" alt="React Icon" />
       </a>
-      <br>TypeORM
+      <br>React
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/typescript-logo.png" width="48" height="48" alt="TypeScript Icon" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/tailwind-logo.png" width="48" height="48" alt="Tailwind Icon" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/reactquery-logo.png" width="48" height="48" alt="React Query Icon" />
+      </a>
+      <br>React Query
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/cypress-logo.png" width="48" height="48" alt="Cypress Icon" />
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/formik.logo-png" width="48" height="48" alt="Formik Icon" />
+      </a>
+      <br>Formik & Yup
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsamplify-logo.png" width="48" height="48" alt="Amplify Icon" />
+      </a>
+      <br>Amplify
     </td>
   </tr>
 </table>
