@@ -129,7 +129,7 @@ Frontend-focused software developer with a passion for crafting exceptional user
   </tr>
 </table>
 
-### Other implementations
+### Implementations
 <table>
   <tr>
     <td align="center" width="96"> 
