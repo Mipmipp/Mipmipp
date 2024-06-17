@@ -5,8 +5,8 @@
 Frontend-focused software developer with a passion for crafting exceptional user experiences and building high-quality, scalable software. Leverages React, Typescript, and Tailwind CSS to create intuitive and responsive interfaces. Implements SOLID principles for clean, maintainable, and extensible code. Proficient in NestJS and TypeORM for robust backend development. Prioritizes code quality, testing, and CI/CD for delivering realiable projects.
 
 ## Connect with me online:
-- Check out my profile on <a href="https://www.linkedin.com/in/sebastianhernando/">LinkedIn</a> 💼
-- View my resume <a href="https://mipmipp.github.io/Mipmipp/">clicking here</a> 📄
+- Check out my profile on <a href="https://www.linkedin.com/in/sebastianhernando/">LinkedIn</a>
+- View my resume <a href="https://mipmipp.github.io/Mipmipp/">clicking here</a>
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
