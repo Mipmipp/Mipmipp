@@ -56,3 +56,45 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
   </tr>
 </table>
+
+### Backend
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/nestjs-logo.png" width="48" height="48" alt="NestJS Icon" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/typeorm-logo.png" width="48" height="48" alt="TypeORM Icon" />
+      </a>
+      <br>TypeORM
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/mysql-logo.png" width="48" height="48" alt="MySQL Icon" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/jest-logo.png" width="48" height="48" alt="Jest Icon" />
+      </a>
+      <br>Jesy
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/supertest-logo.png" width="48" height="48" alt="SuperTest Icon" />
+      </a>
+      <br>SuperTest
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsapprunner-logo.png" width="48" height="48" alt="AppRunner Icon" />
+      </a>
+      <br>AppRunner
+    </td>
+  </tr>
+</table>
