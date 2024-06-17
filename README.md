@@ -1,4 +1,4 @@
-# Hi, I'm Sebastian
+# Hi, I'm Sebastian ✨
 
 <img src="./assets/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
@@ -6,12 +6,9 @@ Frontend-focused software developer with a passion for crafting exceptional user
 
 ## Connect with me online:
 - Check out my profile on <a href="https://www.linkedin.com/in/sebastianhernando/">LinkedIn</a> 💼
-- View my resume <a href="link">here</a> 📄
+- View my resume <a href="https://mipmipp.github.io/Mipmipp/">clicking here</a> 📄
 
-<hr>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
+## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 
 <table>
@@ -24,5 +21,3 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
   </tr>
 </table>
-
-<hr>
