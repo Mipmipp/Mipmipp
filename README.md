@@ -98,3 +98,112 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
   </tr>
 </table>
+
+### Amazon Web Services
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awscognito-logo.png" width="48" height="48" alt="Cognito Icon" />
+      </a>
+      <br>Cognito
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awss3-logo.png" width="48" height="48" alt="S3 Icon" />
+      </a>
+      <br>S3
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsivs-logo.png" width="48" height="48" alt="IVS Icon" />
+      </a>
+      <br>IVS
+    </td>
+  </tr>
+</table>
+
+### Other implementations
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/stripe-logo.png" width="48" height="48" alt="Stripe Icon" />
+      </a>
+      <br>Stripe
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/stripe-connect-logo.png" width="48" height="48" alt="Stripe Icon" />
+      </a>
+      <br>Stripe Connect
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/stellar-logo.png" width="48" height="48" alt="Stellar Icon" />
+      </a>
+      <br>Stellar
+    </td>
+  </tr>
+</table>
+
+### Tools
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/docker-logo.png" width="48" height="48" alt="Docker Icon" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/githubactions-logo.png" width="48" height="48" alt="Github Actions Icon" />
+      </a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/sonarqube-logo.png" width="48" height="48" alt="Sonarqube Icon" />
+      </a>
+      <br>Sonarqube
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/eslint-logo.png" width="48" height="48" alt="ESlint Icon" />
+      </a>
+      <br>ESlint
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/prettier-logo.png" width="48" height="48" alt="Prettier Icon" />
+      </a>
+      <br>Prettier
+    </td>
+  </tr>
+</table>
+
+### Work tools
+<table>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/scrum-logo.png" width="48" height="48" alt="Scrum Icon" />
+      </a>
+      <br>Scrum
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/clickup-logo.png" width="48" height="48" alt="Clickup Icon" />
+      </a>
+      <br>Clickup
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/slack-logo.png" width="48" height="48" alt="Slack Icon" />
+      </a>
+      <br>Slack
+    </td>
+  </tr>
+</table>
+
