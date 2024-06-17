@@ -15,7 +15,7 @@ Frontend-focused software developer with a passion for crafting exceptional user
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./assets/icons/typeorm.svg" width="48" height="48" alt="TypeORM" />
+        <img src="./assets/icons/typeorm.png" width="48" height="48" alt="TypeORM" />
       </a>
       <br>TypeORM
     </td>
