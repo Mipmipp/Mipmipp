@@ -44,7 +44,7 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
     <td align="center" width="96"> 
       <a>
-        <img src="./assets/icons/formik.logo-png" width="48" height="48" alt="Formik Icon" />
+        <img src="./assets/icons/formik-logo.png" width="48" height="48" alt="Formik Icon" />
       </a>
       <br>Formik & Yup
     </td>
