@@ -1,16 +1,12 @@
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  -
-</div>
+# Hi, I'm Sebastian
 
-<h2 align="center"> 👨‍💻 Hernando Sebastián</h2>
-<p align="center">
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
-<p align="left">
-    Frontend-focused software developer with a passion for crafting exceptional user experiences and building high-quality, scalable software. Leverages React, Typescript, and Tailwind CSS to create intuitive and responsive interfaces. Implements SOLID principles for clean, maintainable, and extensible code. Proficient in NestJS and TypeORM for robust backend development. Prioritizes code quality, testing, and CI/CD for delivering realiable projects.
-</p>
+<img src="./assets/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+Frontend-focused software developer with a passion for crafting exceptional user experiences and building high-quality, scalable software. Leverages React, Typescript, and Tailwind CSS to create intuitive and responsive interfaces. Implements SOLID principles for clean, maintainable, and extensible code. Proficient in NestJS and TypeORM for robust backend development. Prioritizes code quality, testing, and CI/CD for delivering realiable projects.
+
+## Connect with me online:
+- Check out my profile on <a href="https://www.linkedin.com/in/sebastianhernando/">LinkedIn</a> 💼
+- View my resume <a href="link">here</a> 📄
 
 <hr>
 
