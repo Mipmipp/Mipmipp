@@ -56,6 +56,12 @@ Frontend-focused software developer with a passion for crafting exceptional user
     </td>
     <td align="center" width="96"> 
       <a>
+        <img src="./assets/icons/vite-logo.png" width="48" height="48" alt="Vite Icon" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96"> 
+      <a>
         <img src="./assets/icons/awsamplify-logo.png" width="48" height="48" alt="Amplify Icon" />
       </a>
       <br>Amplify
@@ -198,6 +204,12 @@ Frontend-focused software developer with a passion for crafting exceptional user
       </a>
       <br>Drawio
     </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/figma-logo.png" width="48" height="48" alt="Figma Icon" />
+      </a>
+      <br>Figma
+    </td>
   </tr>
 </table>
 
@@ -264,14 +276,14 @@ Frontend-focused software developer with a passion for crafting exceptional user
       </a>
       <br>Material UI
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a>
         <img src="./assets/icons/framermotion-logo.png" width="48" height="48" alt="Framer Motion Icon" />
       </a>
       <br>Framer Motion
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a>
         <img src="./assets/icons/nodejs-logo.png" width="48" height="48" alt="NodeJS Icon" />
@@ -295,6 +307,38 @@ Frontend-focused software developer with a passion for crafting exceptional user
         <img src="./assets/icons/nextjs-logo.png" width="48" height="48" alt="NextJS Icon" />
       </a>
       <br>NextJS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/prisma-logo.png" width="48" height="48" alt="Prisma Icon" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/shadcn-logo.png" width="48" height="48" alt="Shadcn Icon" />
+      </a>
+      <br>Shadcn
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/jwt-logo.png" width="48" height="48" alt="JSON Web Tokens Icon" />
+      </a>
+      <br>JWT.io
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/passportjs-logo.png" width="48" height="48" alt="Passport.js Icon" />
+      </a>
+      <br>Passport.js
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/bcrypt-logo.png" width="48" height="48" alt="Bcrypt Icon" />
+      </a>
+      <br>Bcrypt
     </td>
   </tr>
 </table>
