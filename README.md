@@ -6,7 +6,7 @@ Frontend-focused software developer with a passion for crafting exceptional user
 
 ## Connect with me online:
 - Check out my profile on <a href="https://www.linkedin.com/in/sebastianhernando/">LinkedIn</a>
-- View my resume <a href="https://github.com/Mipmipp/Mipmipp/blob/main/assets/resume-hernando-sebastian.pdf">clicking here</a>
+- View my resume <a href="https://github.com/Mipmipp/Mipmipp/blob/main/assets/hernando-sebastian-resume.pdf">clicking here</a>
 
 ## My stack:
 ### Frontend
