@@ -122,9 +122,27 @@ Frontend-focused software developer with a passion for crafting exceptional user
   <tr>
     <td align="center" width="96"> 
       <a>
+        <img src="./assets/icons/awslambda-logo.png" width="48" height="48" alt="Lambda Icon" />
+      </a>
+      <br>Lambda
+    </td>
+    <td align="center" width="96"> 
+      <a>
         <img src="./assets/icons/awscognito-logo.png" width="48" height="48" alt="Cognito Icon" />
       </a>
       <br>Cognito
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsrds-logo.png" width="48" height="48" alt="RDS Icon" />
+      </a>
+      <br>RDS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsiam-logo.png" width="48" height="48" alt="IAM Icon" />
+      </a>
+      <br>IAM
     </td>
     <td align="center" width="96"> 
       <a>
@@ -137,6 +155,12 @@ Frontend-focused software developer with a passion for crafting exceptional user
         <img src="./assets/icons/awsivs-logo.png" width="48" height="48" alt="IVS Icon" />
       </a>
       <br>IVS
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./assets/icons/awsses-logo.png" width="48" height="48" alt="SES Icon" />
+      </a>
+      <br>SES
     </td>
   </tr>
 </table>
