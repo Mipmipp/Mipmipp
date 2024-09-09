@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats-mipmipp.vercel.app/api?username=Mipmipp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats-mipmipp.vercel.app/api/top-langs/?username=Mipmipp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 # Hi, I'm Sebastian ✨
 
 <img src="./assets/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
