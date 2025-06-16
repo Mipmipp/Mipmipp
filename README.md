@@ -1,6 +1,6 @@
-# 👨‍💻 Sebastián Hernando | Ingeniero de Software
+# 👨‍💻 Sebastián Hernando | Ingeniero de Software SemiSenior
 
-Soy **Sebastián Hernando**, **Ingeniero de Software Full-Stack** con más de **2+ años** de experiencia en soluciones escalables y buenas prácticas de ingeniería como **SOLID**, **testing automatizado** y **optimización de procesos**. Actualmente, en **Bigger**, desarrollo soluciones para **MVPs**, optimizo plataformas en **producción** y agrego nuevas funcionalidades en proyectos existentes.
+Soy **Sebastián Hernando**, **Ingeniero de Software Full-Stack SemiSenior** con más de **2 años** de experiencia creando soluciones escalables, aplicando buenas prácticas como **principios SOLID**, **testing automatizado** y **procesos eficientes**. Actualmente trabajo como **SemiSenior** en **IVCISA**, y en **Bigger** colaboré en el desarrollo de **MVPs**, la mejora de plataformas en producción y la incorporación de nuevas funcionalidades en sistemas existentes.
 
 **¿Interesado en colaborar o en contacto profesional?**  
 Estaré encantado de responder a cualquier consulta o propuesta.
@@ -27,9 +27,9 @@ Puedes ver mi Curriculum Vitae completo [aquí](https://sebastianhernando-dev.ne
 ## 🛠️ Tecnologías y Herramientas
 
 - **Frontend:** React, Vue, JavaScript, TypeScript
-- **Backend:** Node.js, NestJS, PHP, Laravel
+- **Backend:** Node.js, NestJS, PHP, Laravel, C#, .NET 8
 - **Bases de datos:** MySQL, MSSQL, MongoDB, DynamoDB, TypeORM
-- **Cloud:** AWS (Lambda, API Gateway, Cognito, SES, AppRunner, Amplify, etc.)
-- **Testing:** Jest, Cypress, Playwright, Supertest
-- **DevOps:** CI/CD, Docker, Serverless, Git, SonarQube
-- **Otros:** Stripe, Stellar, React Query, LocalStack, Oracle
+- **Cloud:** AWS (Lambda, API Gateway, Cognito, SES, AppRunner, Amplify, etc.), Azure (Functions, Blob Storage)
+- **Testing:** Jest, Cypress, Playwright, Supertest, xUnit
+- **DevOps:** CI/CD, Docker, Serverless, Git, Azurite, SonarQube
+- **Otros:** Apache Avro, AutoMapper, Polly, Stripe, Stellar, React Query, LocalStack, Oracle
