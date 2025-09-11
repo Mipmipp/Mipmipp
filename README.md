@@ -13,7 +13,7 @@ Estaré encantado de responder a cualquier consulta o propuesta.
 
 ## 🚀 Proyectos Destacados
 
-- [**My Mood**](https://my-mood.com.ar/): Aplicación web diseñada para rastrear el estado de ánimo del usuario a lo largo del tiempo, permitiendo la visualización y análisis de su evolución. Visítala en [my-mood.com.ar](https://my-mood.com.ar/), ya está en producción.
+- **My Mood**: Aplicación web diseñada para rastrear el estado de ánimo del usuario a lo largo del tiempo, permitiendo la visualización y análisis de su evolución.
 
 
 ## 💼 Visita mi Portfolio
